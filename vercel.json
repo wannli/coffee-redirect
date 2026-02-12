@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://outlook.office.com/bookwithme/user/ead0eab616254fec941909261c139a4b@un.org",
+      "permanent": true
+    }
+  ]
+}
